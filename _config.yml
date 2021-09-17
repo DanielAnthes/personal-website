@@ -23,9 +23,9 @@ email: daniel.anthes97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Daniel Anthes.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "danielanthes.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.danielanthes.xyz" # the base hostname & protocol for your site, e.g. http://example.com
   # twitter_username: jekyllrb
-github_username:  danielanthes
+github_username: danielanthes
 
 # Build settings
 theme: the-plain
