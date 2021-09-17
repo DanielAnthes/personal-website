@@ -4,9 +4,4 @@
 
 layout: page
 ---
-
-<p align="center">
-  <img src="./resources/me_round_small.png" />
-</p>
-
 Hi! You found my website :-) There is nothing here yet, but there might be soon &#8482;
