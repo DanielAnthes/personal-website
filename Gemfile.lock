@@ -62,7 +62,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 3.5)
@@ -75,4 +74,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.2.27
+   2.1.4
