@@ -1,7 +1,7 @@
+---
 layout: page
 title: SHH between two remote servers where one requires a VPN
 ---
-
 Recently, I found myself in a situation where I needed to copy a large amount of data between two servers I was working on.
 Both servers allowed login via my public keys, stored on the respective server, but no password login.
 Additionally, one of the two servers is not publicly accessible, but requires accessing the network it is connected to using a VPN.
